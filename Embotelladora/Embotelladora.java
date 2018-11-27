@@ -12,7 +12,7 @@ public class Embotelladora {
 	public int calculaBotellasPequenas(int pequenas, int grandes, int total) {
 		int miCapacidad;
 		int pequenasMinimiz;
-		
+
 		if (pequenas < 0 || grandes < 0 || total < 0) {
 			throw new RuntimeException("Error: valores negativos");
 		}
