@@ -6,17 +6,17 @@ Adaptando los tests de Bisiestos.java a esta implementación, no se encuentran f
 #############
 EMBOTELLADORA
 #############
-Adaptanto los tests de Embotelladora.java a esta implementación, no se encuentran fallos en el código.
+Adaptando los tests de Embotelladora.java a esta implementación, no se encuentran fallos en el código.
 
 #############
 Black friday
 #############
-Adaptanto los tests de DescuentoBlackFriday.java a esta implementación, no se encuentran fallos en el código.
+Adaptando los tests de DescuentoBlackFriday.java a esta implementación, no se encuentran fallos en el código.
 
 #############
 Numeros romanos
 #############
-Adaptanto los tests de RomanNumeral.java a esta implementación, se encuentra el siguiente fallo:
+Adaptando los tests de RomanNumeral.java a esta implementación, se encuentra el siguiente fallo:
 
 no se controla ni se especifica que no se pueda introducir las secuencias dadas en una regla de los números romanos.
 
